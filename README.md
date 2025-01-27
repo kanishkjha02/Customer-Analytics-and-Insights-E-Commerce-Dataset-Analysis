@@ -2,7 +2,7 @@
 
 ## **Author**
 - **Name**: Kanishk Jha
-- **Email**: kanishkjha@example.com
+- **Email**: jhakanishk021703@gmail.com
 - **LinkedIn**: [Kanishk Jha](https://linkedin.com/in/jha02--kanishk)
 
 ---
@@ -16,6 +16,8 @@ This repository contains the deliverables for a comprehensive data science assig
 
 | File Name                          | Description                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|
+| `Dataset`                         | Folder containing the datasets for the project.                            |
+| `requirements.txt`                | List of dependencies required to run the files.                            |
 | `Kanishk_Jha_EDA.pdf`             | PDF report summarizing EDA and business insights.                          |
 | `Kanishk_Jha_EDA.ipynb`           | Jupyter Notebook containing the EDA code and visualizations.               |
 | `Kanishk_Jha_Lookalike.csv`       | CSV file containing the lookalike recommendations for the first 20 customers. |
@@ -25,7 +27,7 @@ This repository contains the deliverables for a comprehensive data science assig
 
 ---
 
-## **Tasks Overview**
+## **Project Overview**
 
 ### **Task 1: Exploratory Data Analysis (EDA) and Business Insights**
 - **Objective**: Analyze the dataset to uncover meaningful insights.
@@ -84,14 +86,6 @@ This repository contains the deliverables for a comprehensive data science assig
 - Performed clustering using the K-Means algorithm.
 - Determined optimal clusters based on DB Index (best value: 1.16 for 9 clusters).
 - Visualized clusters using PCA for better interpretability.
-
----
-
-## **Contact**
-For any queries, please feel free to contact:
-- **Name**: Kanishk Jha
-- **Email**: kanishkjha@example.com
-- **LinkedIn**: [Kanishk Jha](https://linkedin.com/in/jha02--kanishk)
 
 ---
 Thank you for reviewing this repository!
