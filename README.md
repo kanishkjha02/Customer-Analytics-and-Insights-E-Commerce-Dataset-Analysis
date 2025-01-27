@@ -58,7 +58,7 @@ This repository contains the deliverables for a comprehensive data science assig
    ```
 
 2. Install dependencies:
-   - Python 3.x
+   - Python 3.11.11
    - Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
    - Install dependencies using:
      ```bash
