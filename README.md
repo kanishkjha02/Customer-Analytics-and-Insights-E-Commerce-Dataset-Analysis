@@ -1,4 +1,4 @@
-# Data Science Assignment: eCommerce Transactions Dataset
+# Customer Analytics and Insights: E-Commerce Dataset Analysis
 
 ## **Author**
 - **Name**: Kanishk Jha
